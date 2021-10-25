@@ -1,0 +1,6 @@
+Django~=3.2.0
+psycopg2
+pytz==2019.2
+sqlparse==0.3.0
+djangorestframework
+-e git://github.com/omab/python-socialauth.git@6b1e301c79#egg=python-social-auth
